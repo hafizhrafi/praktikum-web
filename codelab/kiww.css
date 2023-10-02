@@ -1,0 +1,14 @@
+body {
+    color: black;
+}
+
+
+table {
+    background-color : gold;
+    border: ipx solid;
+}
+
+th {
+    border: 1px solid;
+    padding: 5px;
+}
